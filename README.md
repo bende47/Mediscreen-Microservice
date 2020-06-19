@@ -60,3 +60,9 @@ Pour exécuter les tests à partir de maven, accédez au dossier qui contient le
 mvn test
 
 
+### Architecture de la solution
+
+![alt tag](https://github.com/bende47/Mediscreen-microservice/blob/feature/develop/arch.png)
+
+
+
